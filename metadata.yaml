@@ -1,0 +1,4 @@
+name: astrbot_admin_manager
+desc: AstrBot 插件管理器，支持插件启停、用户级插件黑名单和使用统计。
+author: yvzhu
+version: 0.1.0
